@@ -175,6 +175,18 @@ body {
     font-size: 16px;
 }
 
+.text-img3 {
+    width: 90%;
+}
+
+.text-img3 p {
+    margin-top: 3%;
+    text-align: center;
+    color: #ffffff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 2.5);
+    font-size: 21px;
+}
+
 
 .images {
     width: 1200px;
