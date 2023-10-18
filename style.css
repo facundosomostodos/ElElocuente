@@ -16,7 +16,7 @@ body {
 }
 
 .header {
-    background-image: url(/images/fondo-negro.jpg);
+    background-image: url(fondo-negro.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -27,7 +27,7 @@ body {
 }
 
 .pantalla {
-    background-image: url(images/FacundoFacundoOscuro.png);
+    background-image: url(FacundoFacundoOscuro.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
